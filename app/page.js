@@ -1,5 +1,5 @@
-import Hero from "@/components/Hero";
+import TaskBoard from "@/components/task-board/TaskBoard";
 
 export default function Home() {
-  return <Hero />;
+  return <TaskBoard />;
 }
